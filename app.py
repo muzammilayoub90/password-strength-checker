@@ -60,4 +60,4 @@ if password:
 
 else:
     st.info("Please enter your password to get started.")
-st.caption("###  Muzammil Ayoub")
+st.caption("### By Muzammil Ayoub")
